@@ -1,10 +1,15 @@
 // add solution here
 
+<<<<<<< HEAD
 //const arr = [];
+=======
+const arr = [];
+>>>>>>> fddb68fffe794e4ef1d77ce294a713933a3996d3
 
 const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
 const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
+<<<<<<< HEAD
 function theBeatlesPlay(musicians, instruments) {
   let arr = [];  
   for(var i = 0; i < musicians.length; i++){
@@ -42,5 +47,12 @@ function iLoveTheBeatles(num){
     num++;
   }while(num < 15);
   return arr;
+=======
+
+function theBeatlesPlay(musicians, instruments){
+  
+  for(i=0, i=)
+  
+>>>>>>> fddb68fffe794e4ef1d77ce294a713933a3996d3
 }
 
